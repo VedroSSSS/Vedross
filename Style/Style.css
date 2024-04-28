@@ -1,0 +1,56 @@
+nav ul {
+    background-color: #d77070;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 18px;
+    list-style-type: none;
+    height: 40px
+}
+
+section h2 {
+    text-align: center;
+    background-color: #c55656;
+    padding: 10px;
+}
+
+footer p {
+    text-align: left;
+    padding: 10px;
+}
+
+body {
+    background-color: #9b6bb9;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+section {
+    text-align: left;
+    margin: 0 auto;
+    width: 70%;
+}
+
+figure {
+    text-align: center;
+}
+
+section div {
+    display: flex;
+    justify-content: space-between;
+}
+
+section table {
+    margin: 0 auto;
+}
+
+section td {
+    text-align: center;
+}
+
+section p {
+    text-align: center;
+}
